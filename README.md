@@ -6,7 +6,7 @@
 
 <!-- please enter link to site preview here -->
 
-[Project live site]()
+[Project live site](https://estorelabs.github.io/RC---220804-LO-359-Garnier-Biotanic-Therapy-Honey-Treasures-ROSSMAN/Portals/0/rich-content/garnier/3600542096188.html)
 
 ## PROJECT PREVIEW
 

@@ -1,32 +1,52 @@
 /* Gotham Black */
 @font-face {
-  font-family: "Gotham Black";
-  src: url("fonts/Gotham-Black/Gotham-Black-Regular.eot");
-  src: url("fonts/Gotham-Black/Gotham-Black-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Gotham-Black/Gotham-Black-Regular.woff2") format("woff2"), url("fonts/Gotham-Black/Gotham-Black-Regular.woff") format("woff");
+  font-family: 'Gotham Black';
+  src: url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Black/Gotham-Black-Regular.eot');
+  src: url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Black/Gotham-Black-Regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Black/Gotham-Black-Regular.woff2')
+      format('woff2'),
+    url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Black/Gotham-Black-Regular.woff')
+      format('woff');
   font-weight: 400;
   font-style: normal;
 }
 /* Gotham Black Italic */
 @font-face {
-  font-family: "Gotham Black Italic";
-  src: url("fonts/Gotham-Black-Italic/Gotham-Black-Italic.eot");
-  src: url("fonts/Gotham-Black-Italic/Gotham-Black-Italic.eot?#iefix") format("embedded-opentype"), url("fonts/Gotham-Black-Italic/Gotham-Black-Italic.woff2") format("woff2"), url("fonts/Gotham-Black-Italic/Gotham-Black-Italic.woff") format("woff");
+  font-family: 'Gotham Black Italic';
+  src: url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Black-Italic/Gotham-Black-Italic.eot');
+  src: url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Black-Italic/Gotham-Black-Italic.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Black-Italic/Gotham-Black-Italic.woff2')
+      format('woff2'),
+    url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Black-Italic/Gotham-Black-Italic.woff')
+      format('woff');
   font-weight: 400;
   font-style: normal;
 }
 /* Gotham Bold */
 @font-face {
-  font-family: "Gotham Bold";
-  src: url("fonts/Gotham-Bold/Gotham-Bold.eot");
-  src: url("fonts/Gotham-Bold/Gotham-Bold.eot?#iefix") format("embedded-opentype"), url("fonts/Gotham-Bold/Gotham-Bold.woff2") format("woff2"), url("fonts/Gotham-Bold/Gotham-Bold.woff") format("woff");
+  font-family: 'Gotham Bold';
+  src: url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Bold/Gotham-Bold.eot');
+  src: url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Bold/Gotham-Bold.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Bold/Gotham-Bold.woff2')
+      format('woff2'),
+    url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Bold/Gotham-Bold.woff')
+      format('woff');
   font-weight: 700;
   font-style: normal;
 }
 /* Gotham Book */
 @font-face {
-  font-family: "Gotham Book";
-  src: url("fonts/Gotham-Book/Gotham-Book-Regular.eot");
-  src: url("fonts/Gotham-Book/Gotham-Book-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Gotham-Book/Gotham-Book-Regular.woff2") format("woff2"), url("fonts/Gotham-Book/Gotham-Book-Regular.woff") format("woff");
+  font-family: 'Gotham Book';
+  src: url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Book/Gotham-Book-Regular.eot');
+  src: url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Book/Gotham-Book-Regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Book/Gotham-Book-Regular.woff2')
+      format('woff2'),
+    url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/fonts/Gotham-Book/Gotham-Book-Regular.woff')
+      format('woff');
   font-weight: 400;
   font-style: normal;
 }
@@ -37,7 +57,7 @@ body {
 }
 
 #es-garnier.es-garnier {
-  font-family: "Gotham Book", sans-serif;
+  font-family: 'Gotham Book', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.2;
@@ -55,11 +75,12 @@ body {
 #es-garnier.es-garnier h3,
 #es-garnier.es-garnier h4,
 #es-garnier.es-garnier h5 {
-  font-family: "Gotham Book", sans-serif;
+  font-family: 'Gotham Book', sans-serif;
   color: #111;
 }
 #es-garnier.es-garnier .es-kv__logo {
-  background: url(images/photo.jpg) no-repeat;
+  background: url(https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/images/photo.jpg)
+    no-repeat;
   background-size: cover;
   height: 462px;
 }
@@ -70,7 +91,7 @@ body {
   margin: 0 auto;
   width: 70%;
   -webkit-animation: slidedown 0.3s ease-in-out;
-          animation: slidedown 0.3s ease-in-out;
+  animation: slidedown 0.3s ease-in-out;
 }
 #es-garnier.es-garnier .es-kv__label-image {
   width: 80px;
@@ -91,7 +112,7 @@ body {
   display: block;
   margin: 0 auto;
   -webkit-animation: sliderleft 0.3s ease-in-out;
-          animation: sliderleft 0.3s ease-in-out;
+  animation: sliderleft 0.3s ease-in-out;
 }
 #es-garnier.es-garnier .es-info__title-group {
   position: relative;
@@ -122,7 +143,7 @@ body {
   font-weight: inherit;
   margin-bottom: 5px;
   font-size: 25px;
-  font-family: "Gotham Black", sans-serif;
+  font-family: 'Gotham Black', sans-serif;
   text-transform: uppercase;
   color: #f99201;
 }
@@ -175,7 +196,7 @@ body {
   font-family: inherit;
   font-weight: inherit;
   margin-bottom: 10px;
-  font-family: "Gotham Bold", sans-serif;
+  font-family: 'Gotham Bold', sans-serif;
   font-size: 16px;
   text-align: center;
 }
@@ -205,7 +226,7 @@ body {
   color: inherit;
   font-family: inherit;
   font-weight: inherit;
-  font-family: "Gotham Black", sans-serif;
+  font-family: 'Gotham Black', sans-serif;
   font-size: 40px;
   text-align: center;
   text-transform: uppercase;
@@ -220,7 +241,7 @@ body {
   font-family: inherit;
   font-weight: inherit;
   margin-bottom: 20px;
-  font-family: "Gotham Bold", sans-serif;
+  font-family: 'Gotham Bold', sans-serif;
   font-size: 25px;
   text-align: center;
   text-transform: uppercase;
@@ -238,7 +259,7 @@ body {
   font-family: inherit;
   font-weight: inherit;
   font-size: 20px;
-  font-family: "Gotham Bold", sans-serif;
+  font-family: 'Gotham Bold', sans-serif;
   color: #fff;
 }
 #es-garnier.es-garnier .es-ba__after-text {
@@ -253,7 +274,7 @@ body {
   font-family: inherit;
   font-weight: inherit;
   font-size: 20px;
-  font-family: "Gotham Bold", sans-serif;
+  font-family: 'Gotham Bold', sans-serif;
   color: #fff;
 }
 #es-garnier.es-garnier .es-ba__after-text sup {
@@ -273,7 +294,7 @@ body {
   font-weight: inherit;
   margin-top: 30px;
   margin-bottom: 30px;
-  font-family: "Gotham Black", sans-serif;
+  font-family: 'Gotham Black', sans-serif;
   font-size: 20px;
   text-align: center;
   color: #fff;
@@ -289,7 +310,7 @@ body {
   border-radius: 50%;
   transform: scale(1);
   -webkit-animation: pulse 2s infinite;
-          animation: pulse 2s infinite;
+  animation: pulse 2s infinite;
 }
 #es-garnier.es-garnier .es-pack__packshot-image {
   max-width: 100%;
@@ -317,7 +338,7 @@ body {
   font-family: inherit;
   font-weight: inherit;
   margin-bottom: 30px;
-  font-family: "Gotham Bold", sans-serif;
+  font-family: 'Gotham Bold', sans-serif;
   font-size: 20px;
   color: #f99201;
   text-transform: uppercase;
@@ -345,7 +366,7 @@ body {
   color: inherit;
   font-family: inherit;
   font-weight: inherit;
-  font-family: "Gotham Bold", sans-serif;
+  font-family: 'Gotham Bold', sans-serif;
   margin-bottom: 5px;
   text-align: center;
 }
@@ -366,7 +387,7 @@ body {
   color: inherit;
   font-family: inherit;
   font-weight: inherit;
-  font-family: "Gotham Bold", sans-serif;
+  font-family: 'Gotham Bold', sans-serif;
   padding: 10px 30px;
   color: #fff;
   text-decoration: none;
@@ -429,7 +450,8 @@ body {
     width: auto;
   }
   #es-garnier.es-garnier .es-info__container {
-    background: url(./images/info-bg.png) no-repeat center;
+    background: url(https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/images/info-bg.png)
+      no-repeat center;
     max-width: 745px;
     display: flex;
     flex-wrap: wrap;
@@ -497,7 +519,8 @@ body {
     align-items: center;
     min-height: 462px;
     padding: 10px;
-    background: url(images/photo.jpg) no-repeat;
+    background: url(https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/images/photo.jpg)
+      no-repeat;
     background-size: auto;
   }
   #es-garnier.es-garnier .es-kv__logo {
@@ -557,7 +580,8 @@ body {
   #es-garnier.es-garnier .es-cross__single {
     width: auto;
   }
-  #es-garnier.es-garnier .es-cross__name, #es-garnier.es-garnier .es-cross__subtitle {
+  #es-garnier.es-garnier .es-cross__name,
+  #es-garnier.es-garnier .es-cross__subtitle {
     font-size: 13px;
   }
   #es-garnier.es-garnier .es-cross__subtitle {
@@ -613,7 +637,8 @@ body {
     text-align: center;
   }
   #es-garnier.es-garnier .es-pack {
-    background: url("./images/background.png") no-repeat 80% center;
+    background: url('https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542096188/images/background.png')
+      no-repeat 80% center;
   }
   #es-garnier.es-garnier .es-pack__container {
     display: block;
@@ -827,4 +852,4 @@ body {
 }
 #es-garnier.es-garnier .es-cross__single:hover .es-cross__img {
   transform: scale(1.05);
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
